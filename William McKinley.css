@@ -1,0 +1,105 @@
+
+
+    .tri2{ width: 0px; height: 0px; 
+        
+    /* border-top: 100px solid blue; */
+    border-right: 100px solid transparent;
+    border-bottom: 100px solid white; transform: rotate(-10deg); 
+    border-left: 220px solid transparent; 
+        
+    position: fixed; top: 573px; left: 70px; }
+
+    .tri3 { width: 0px; height: 0px;
+
+    border-top: 100px solid white; transform: rotate(10deg);
+    border-right: 100px solid transparent;
+    /* border-bottom: 100px solid yellow; */
+    border-left: 220px solid transparent;
+
+
+    position: fixed; top: 528px; left: 70px;}
+
+    .smalltri-top{ width: 0px; height: 0px;
+
+    /* border-top: 18px solid red; */
+    border-right: 18px solid transparent;
+    border-bottom: 18px solid transparent;
+    border-left: 18px solid rgb(193,19,61); transform: rotate(10deg);
+
+    position: fixed; top: 588px; left: 332px;}
+
+    .smalltri-bottom{ width: 0px; height: 0px;
+
+        border-top: 18px solid transparent;
+        border-right: 18px solid transparent;
+        border-bottom: 18px solid rgb(193,19,61); transform: rotate(-10deg);
+        /* border-left: 18px solid grey; */
+    
+        position: fixed; top: 578px; left: 330px;}
+
+
+
+    .smalltri2-top{ width: 0px; height: 0px;
+
+        /* border-top: 26px solid red; */
+        border-right: 26px solid transparent;
+        border-bottom: 26px solid transparent;
+        border-left: 27px solid rgb(193,19,61); transform: rotate(10deg); 
+    
+        position: fixed; top: 556px; left: 370px;}
+
+    .smalltri2-bottom{ width: 0px; height: 0px;
+
+        border-top: 26px solid transparent;
+        border-right: 26px solid transparent;
+        border-bottom: 26px solid rgb(193,19,61); transform: rotate(-10deg);
+        /* border-left: 26px solid grey; */ 
+    
+        position: fixed; top: 596px; left: 368px;}
+
+
+
+
+    .square-top{ width: 290px; height: 25px; background-color: rgb(193,19,61); top: 526px; left: 83px; position: fixed; transform: rotate(10deg);}
+
+    .square-middle{ width: 235px; height: 30px; background-color: rgb(193,19,61); top: 585px; left: 100px; position: fixed;}
+
+    .square-bottom{ width: 290px; height: 25px; background-color: rgb(193,19,61); top: 650px; left: 83px; position: fixed; transform: rotate(-10deg);}
+
+
+.tri-verticaltop{ width: 0px; height: 0px;
+
+    border-top: 26px solid rgb(193,19,61); transform: rotate(10deg);
+    /* border-right: 25px solid blue; */
+    border-bottom: 25px solid transparent;
+    border-left: 25px solid transparent;
+
+    position: fixed; top: 502px; left: 76px;}
+
+
+.tri-verticalbottom{ width: 0px; height: 0px;
+
+    border-top: 26px solid transparent;
+    /* border-right: 25px solid blue; */
+    border-bottom: 25px solid rgb(193,19,61); transform: rotate(-10deg);
+    border-left: 25px solid transparent;
+
+    position: fixed; top: 648px; left: 76px;}
+
+
+
+    .tri{ width: 0px; height: 0px; 
+    
+        border-top: 100px solid transparent; 
+        /* border-right: 100px solid green; */
+        border-bottom: 100px solid transparent; 
+        border-left: 165px solid rgb(0, 28, 90); 
+        
+        
+        position: fixed; top: 500px; left: 80px; }
+
+
+    .circ{ width: 45px; height: 45px; background-color:rgb(193,19,61); left: 105px; top: 570px; position: fixed; border-radius: 50%; border: 8px solid white;}
+
+
+    
